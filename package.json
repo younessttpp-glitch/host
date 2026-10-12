@@ -1,0 +1,1 @@
+{"name":"hoost-test-vsi-mta","version":"2.0.0","private":true,"description":"Local Windows MTA:SA hosting control panel foundation","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
